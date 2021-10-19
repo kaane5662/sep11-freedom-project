@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Kaan Eren
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about making a piece of software using Javascript. The purpose of this blog is to list out the implications and steps towards achieving my freedom project.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a schedule site/app port. These blogs will walk through my process of independently studying Firebase, Highcharts, Three, Alpine, and JsonApi in order develop my project.
 
 ## Links
 
@@ -14,7 +14,7 @@ Product
 Presentation
 
 ## Implications
-X
+Firebase, Highcharts, Three, Alpine, JsonApi
 
 ---
 
