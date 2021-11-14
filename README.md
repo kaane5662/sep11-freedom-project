@@ -14,7 +14,7 @@ Product
 Presentation
 
 ## Implications
-Firebase, Highcharts, Three, Alpine, JsonApi
+Firebase, Highcharts, JsonApi
 
 ---
 
