@@ -4,12 +4,12 @@ The Import Journey 2/11/22
 
 ## About
 
-After tinkering around with Firebase Firestore and Firebase itself, and making a few document collections in my Firestore database, it was finally time for me to start getting the necessary ingredients I need to import firebase to my actual ide. Below I will talk about all the steps I have done in order to get where I am now. Right now I am on the process of learning Firestore and how to import and use Firestore for my project.
+After tinkering around with Firestore and Firebase itself, as well as making a few document collections in my Firestore database, it was finally time for me to start getting the necessary ingredients I need to import Firebase to my actual ide. Below I will talk about all the steps I have done in order to get where I am now. Right now I am on the process of learning Firestore and how to import and use Firestore for my project.
 
 
 ## Files Setup
 
-Firstly in order to do any of the below, I need to setup my files in proper orientation. I followed a [tutorial]() in order to help me. First I made 2 directories, ```src``` and ```dist```. In ```src``` I made an ```index.js``` file and in ```dist``` I made an ```index.html``` file and put the basic template of HTML on there. The point of these files is to ensure that when adding webpack, the ```bundle.js``` file ends up in ```dist```or destination. Finally the files set up was finished and I was ready to move onto the next step.
+Firstly in order to do any of the below, I need to setup my files in proper orientation. I followed a [tutorial](https://www.youtube.com/watch?v=9zdvmgGsww0&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb&index=1) in order to help me. First I made 2 directories, ```src``` and ```dist```. In ```src``` I made an ```index.js``` file and in ```dist``` I made an ```index.html``` file and put the basic template of HTML on there. The point of these files is to ensure that when adding webpack, the ```bundle.js``` file ends up in ```dist```or destination. Finally the files set up was finished and I was ready to move onto the next step.
 
 
 ## Getting Started with a Webpack
@@ -28,7 +28,7 @@ module.exports = {
     watch: true
 }
 ``` 
-because I had to use an development source. Later, I had to edit the code of package.json in order to include ```"build": webpack``` in the scripts section, however there was a tiny error I made and didn't realize untill I opened a [stack overflow](https://stackoverflow.com/questions/40439277/package-json-actually-in-json-not-just-javascript) tab. My problem was I entered
+because I had to use an development source. Later, I had to edit the code of package.json in order to include ```"build": webpack``` in the scripts section, however there was a tiny error I made and didn't realize until I opened a [stack overflow](https://stackoverflow.com/questions/40439277/package-json-actually-in-json-not-just-javascript) tab. My problem was I entered
 ```js 
 "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
