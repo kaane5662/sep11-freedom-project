@@ -18,12 +18,12 @@ The goal of this project was to help those specifically with time management iss
 
 ---
 
-* [Blog Entry 1](entries/entry01.md)
-* [Blog Entry 2](entries/entry02.md)
-* [Blog Entry 3](entries/entry03.md)
-* [Blog Entry 4](entries/entry04.md)
-* [Blog Entry 5](entries/entry05.md)
-* [Blog Entry 6](entries/entry06.md)
+* [Blog Entry 1: Decisons](entries/entry01.md)
+* [Blog Entry 2: The Journey](entries/entry02.md)
+* [Blog Entry 3: The Import Journey](entries/entry03.md)
+* [Blog Entry 4: The Firestore Journey](entries/entry04.md)
+* [Blog Entry 5: The MVP](entries/entry05.md)
+* [Blog Entry 6: The Reflection](entries/entry06.md)
 * [Blog Entry 7](entries/entry07.md)
 * [Blog Entry 8](entries/entry08.md)
 * [Blog Entry 9](entries/entry09.md)
