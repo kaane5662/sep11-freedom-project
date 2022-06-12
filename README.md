@@ -5,7 +5,7 @@ by Kaan Eren
 The "Freedom Project" for SEP11 is all about making a piece of software using Javascript and an additional third party tool of choice. The purpose of this blog is to list out the steps towards achieving my final project, while maintaining the implications.
 
 ## Content
-For my project, I am making a schedule site, where users can: create accounts, input data, customize the theme of their schedule(background color, test color, borders), and save their data. These blogs will walk through my process of independently studying Firebase, and Javascript in order to develop my concept.
+For my project, I am making a schedule site, where users can: create accounts, input data, customize the theme of their schedule(background color, test color, borders), and save their data. These blogs will walk through my process of independently studying Firebase and Javascript in order to develop my concept.
 
 ## Links
 
